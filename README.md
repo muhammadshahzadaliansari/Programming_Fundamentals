@@ -1,2 +1,12 @@
 # Programming_Fundamentals
-Programming involves activities such as analysis, developing understanding, generating algorithms, verification of requirements of algorithms including their correctness and resources consumption, and implementation (commonly referred to as coding) of algorithms in a target programming language.
+
+##clone your repostiry
+  using gitclone command and make folder 
+### create .c File
+   create .c extension file then write "hello world" program
+###sync your file with github
+   sync ur files with github with commands
+ * git add file name
+ * git commit -m "your comment"
+ * git push
+ * username and token code
